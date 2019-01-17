@@ -261,4 +261,4 @@ __pycache__/
 *.pyc
 
 # Test
-[Tt]est/
+Test/
