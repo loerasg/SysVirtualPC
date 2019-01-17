@@ -294,7 +294,3 @@ paket-files/
 __pycache__/
 *.pyc
 
-# Test
-Test/
-
-Test/
